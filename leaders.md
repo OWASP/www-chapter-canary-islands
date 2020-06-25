@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Sergiu Mesesan](mailto:sergiu.mesesan@owasp.org)
+* [Jennifer Torres Fernández](mailto:jennifer.fernandez@owasp.org)
