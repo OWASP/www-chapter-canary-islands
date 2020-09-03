@@ -1,5 +1,4 @@
-# www-chapter-canary-islands
-OWASP Foundation Web Respository
+# Canary Islands Website Repository
 
-# Website
+OWASP Foundation Web Respository
 https://owasp.org/www-chapter-canary-islands/
